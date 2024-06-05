@@ -10,8 +10,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 03:40+0000\n"
-"PO-Revision-Date: 2024-06-05 09:28+0000\n"
-"Last-Translator: PURNAMALLAVOLU <purna280596@gmail.com>\n"
+"PO-Revision-Date: 2024-06-05 09:33+0000\n"
+"Last-Translator: Weblate Admin <spurna@sangoma.com>\n"
 "Language-Team: Hindi <https://weblate.automatedevops.world/projects/freepbx/"
 "language-names/hi/>\n"
 "Language: hi\n"
@@ -74,7 +74,7 @@ msgstr "YEK DIN"
 #: views/remote_ews_settings.php:241
 #: views/remote_ical_settings.php:98
 msgid "1 Hour"
-msgstr ""
+msgstr "YEK GANTA"
 
 #: views/oauth_calendar_form.php:120
 #: views/remote_caldav_settings.php:176
