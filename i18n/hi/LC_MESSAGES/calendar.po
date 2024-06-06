@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 03:40+0000\n"
-"PO-Revision-Date: 2024-06-06 04:41+0000\n"
+"PO-Revision-Date: 2024-06-06 06:14+0000\n"
 "Last-Translator: Pushkar Singh <psingh@sangoma.com>\n"
 "Language-Team: Hindi <https://weblate.automatedevops.world/projects/freepbx/"
 "language-names/hi/>\n"
@@ -102,14 +102,14 @@ msgstr "dus minute"
 #: views/remote_ews_settings.php:244
 #: views/remote_ical_settings.php:101
 msgid "12 Hours"
-msgstr ""
+msgstr "baarah ghante"
 
 #: views/oauth_calendar_form.php:125
 #: views/remote_caldav_settings.php:181
 #: views/remote_ews_settings.php:242
 #: views/remote_ical_settings.php:99
 msgid "2 Hours"
-msgstr ""
+msgstr "do ghante"
 
 #: views/oauth_calendar_form.php:123
 #: views/remote_caldav_settings.php:179
