@@ -11,7 +11,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 03:40+0000\n"
 "PO-Revision-Date: 2024-06-07 05:15+0000\n"
-"Last-Translator: Ramarajan-Sangoma <ramarajan222@gmail.com>\n"
+"Last-Translator: PURNAMALLAVOLU <purna280596@gmail.com>\n"
 "Language-Team: Hindi <https://weblate.automatedevops.world/projects/freepbx/"
 "language-names/hi/>\n"
 "Language: hi\n"
@@ -123,7 +123,7 @@ msgstr "thees minit"
 #: views/remote_ews_settings.php:238
 #: views/remote_ical_settings.php:95
 msgid "5 Minutes"
-msgstr ""
+msgstr "panch minut"
 
 #: views/oauth_calendar_form.php:126
 #: views/remote_caldav_settings.php:182
