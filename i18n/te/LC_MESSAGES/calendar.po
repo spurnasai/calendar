@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 03:40+0000\n"
-"PO-Revision-Date: 2024-06-10 07:15+0000\n"
+"PO-Revision-Date: 2024-06-10 08:15+0000\n"
 "Last-Translator: PURNAMALLAVOLU <purna280596@gmail.com>\n"
 "Language-Team: Telugu <https://weblate.automatedevops.world/projects/freepbx/"
 "language-names/te/>\n"
@@ -156,12 +156,12 @@ msgstr "panulu"
 
 #: Calendar.class.php:523
 msgid "Add"
-msgstr ""
+msgstr "jodinchu"
 
 #: views/grid.php:18
 #, php-format
 msgid "Add %s"
-msgstr ""
+msgstr "jodinchu %s"
 
 #: views/grid.php:14
 #: views/rnav.php:6
