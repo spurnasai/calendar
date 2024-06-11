@@ -174,7 +174,7 @@ msgstr "config ni jodinchandi"
 
 #: assets/js/calendar/calendar.js:109
 msgid "Add Event"
-msgstr ""
+msgstr "karyakramunanu jodinchandi"
 
 #: views/calendargroupgrid.php:20
 msgid "Add Group"
