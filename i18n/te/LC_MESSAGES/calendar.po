@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-22 03:40+0000\n"
-"PO-Revision-Date: 2024-06-11 09:15+0000\n"
+"PO-Revision-Date: 2024-06-11 19:07+0000\n"
 "Last-Translator: PURNAMALLAVOLU <purna280596@gmail.com>\n"
 "Language-Team: Telugu <https://weblate.automatedevops.world/projects/freepbx/"
 "language-names/te/>\n"
@@ -178,7 +178,7 @@ msgstr "karyakramamunu jodinchandi"
 
 #: views/calendargroupgrid.php:20
 msgid "Add Group"
-msgstr ""
+msgstr "gumpu ni jodinchandi"
 
 #: views/rnav.php:9
 msgid "Add New Local Calendar"
