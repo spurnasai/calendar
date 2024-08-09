@@ -202,7 +202,7 @@ msgstr ""
 
 #: views/rnav.php:10
 msgid "Add Remote iCal Calendar"
-msgstr ""
+msgstr "remote calendar ni jodinchandi ical ni vaadi"
 
 #: views/calendar.php:474
 #: views/calendar.php:519
